@@ -1,4 +1,4 @@
-# Web Development Project
+# Tic tac toe game
 
 Welcome to Tic tac toe ! This repository contains the source code and assets of my basic web development project.
 
