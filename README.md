@@ -35,5 +35,5 @@ This project is licensed under the [License Name] License - see the [LICENSE.md]
 
 Utkarsh Dwivedi - utkarshdwivedi288@gmail.com
 
-Project Link:https://github.com/Utkarsh-2404/Amazon-clone
+Project Link:https://github.com/Utkarsh-2404/TIc-tac-toe
 
